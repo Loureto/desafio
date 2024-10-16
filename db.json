@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "João Silva",
+      "email": "joao.silva@example.com",
+      "address": "Rua A, 123"
+    },
+    {
+      "id": 2,
+      "name": "Maria Souza",
+      "email": "maria.souza@example.com",
+      "address": "Rua B, 456"
+    },
+    {
+      "id": 3,
+      "name": "Pedro Costa",
+      "email": "pedro.costa@example.com",
+      "address": "Rua C, 789"
+    },
+    {
+      "id": 4,
+      "name": "Ana Pereira",
+      "email": "ana.pereira@example.com",
+      "address": "Rua D, 101"
+    },
+    {
+      "id": 5,
+      "name": "Carlos Almeida",
+      "email": "carlos.almeida@example.com",
+      "address": "Rua E, 112"
+    },
+    {
+      "id": 6,
+      "name": "Fernanda Oliveira",
+      "email": "fernanda.oliveira@example.com",
+      "address": "Rua F, 223"
+    },
+    {
+      "id": 7,
+      "name": "Rafael Lima",
+      "email": "rafael.lima@example.com",
+      "address": "Rua G, 334"
+    },
+    {
+      "id": 8,
+      "name": "Julia Ferreira",
+      "email": "julia.ferreira@example.com",
+      "address": "Rua H, 445"
+    },
+    {
+      "id": 9,
+      "name": "Lucas Mendes",
+      "email": "lucas.mendes@example.com",
+      "address": "Rua I, 556"
+    },
+    {
+      "id": 10,
+      "name": "Paula Costa",
+      "email": "paula.costa@example.com",
+      "address": "Rua J, 667"
+    }
+  ]
+}
